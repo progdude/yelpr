@@ -75,7 +75,7 @@
                                                     <nil key="highlightedColor"/>
                                                 </label>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" ambiguous="YES" misplaced="YES" text="0.07 mi" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ysd-rI-cm5">
-                                                    <rect key="frame" x="239" y="2" width="65" height="16"/>
+                                                    <rect key="frame" x="250" y="2" width="37" height="16"/>
                                                     <fontDescription key="fontDescription" name="Avenir-Roman" family="Avenir" pointSize="13"/>
                                                     <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                                     <nil key="highlightedColor"/>
@@ -203,7 +203,7 @@
                     <connections>
                         <outlet property="addressLabel" destination="5CN-83-OAg" id="vuR-VT-Kbu"/>
                         <outlet property="descriptionLabel" destination="1Gy-kP-ouH" id="W5u-OK-Ywd"/>
-                        <outlet property="mapView" destination="Tns-Vq-xtp" id="Kze-mv-cPE"/>
+                        <outlet property="mapView" destination="Tns-Vq-xtp" id="4S4-95-AGs"/>
                         <outlet property="nameLabel" destination="zq8-4u-M8V" id="v2p-FH-Cpx"/>
                         <outlet property="ratingsImageView" destination="ORe-8L-a2B" id="Fvi-kK-tjv"/>
                         <outlet property="reviewCountLabel" destination="Zpy-Xj-ZMc" id="wM7-cL-9vn"/>
